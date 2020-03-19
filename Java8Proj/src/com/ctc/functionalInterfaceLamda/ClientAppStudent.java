@@ -9,6 +9,7 @@ public class ClientAppStudent {
 		arrayList.add(new Student(1,"Salam"));
 		arrayList.add(new Student(2,"kalam"));
 		arrayList.add(new Student(3,"alam"));
+		arratList.add(new Student(4,"zhelam"))
 		for(Student st:arrayList) {
 			//System.out.println(st.customShow(->st.getNo()+""+st.getName()));
 		}
